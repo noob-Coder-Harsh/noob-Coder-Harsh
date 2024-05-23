@@ -1,20 +1,26 @@
-Hi there 👋
+# ✨ About Harsh! 🤖
+Flutter Developer | Dart | Java | Python | SQL
 
-I'm Harsh (a.k.a @noob-Coder-Harsh)!
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kushwaha-2474ba196/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/your_twitter_handle)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/your_instagram_handle)
 
-👀 Passionate about CrossPlatform App Development.
+## 💻 Tech Stack:
 
-🌱 Currently diving deep into the world of Flutter.
+| **Front-End** | **Back-End** | **Database** | **State Management** |
+| ------------- | ------------- | ------------ | ------------------- |
+| ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) | ![Dart](https://img.shields.io/badge/Dart-%23404d59.svg?style=for-the-badge&logo=dart&logoColor=%2361DAFB) | ![Firebase Firestore](https://img.shields.io/badge/Firebase%20Firestore-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) | ![Provider](https://img.shields.io/badge/Provider-%23007ACC.svg?style=for-the-badge&logo=flutter&logoColor=white) |
 
-💬 Open to collaborations and discussions.
 
-📧 Reach me at: hkthakur5683@gmail.com.
+| **Cloud Services** | **Analytics** | **Additional Tools and Libraries** |
+| ------------------ | ---------------------- | ------------------------------- |
+| ![Firebase Storage](https://img.shields.io/badge/Firebase%20Storage-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) | ![Firebase Analytics](https://img.shields.io/badge/Firebase%20Analytics-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) | ![Firebase Crashlytics](https://img.shields.io/badge/Firebase%20Crashlytics-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) |
+| ![Firebase Authentication](https://img.shields.io/badge/Firebase%20Authentication-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) | | ![Firebase Cloud Messaging](https://img.shields.io/badge/Firebase%20Cloud%20Messaging-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) |
+![Firebase Realtime Database](https://img.shields.io/badge/Firebase%20Realtime%20Database-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) |
 
-😄 Pronouns: He/him/his
+# 📊 GitHub Stats:
+[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=noob-coder-harsh&show_icons=true&theme=transparent)](https://github.com/noob-coder-harsh/github-readme-stats) ![](https://github-readme-streak-stats.herokuapp.com/?user=noob-coder-harsh&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=noob-coder-Harsh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
-⚡ Fun fact: Did you know the first computer mouse was made of wood?
-
-<!---
-noob-Coder-Harsh/noob-Coder-Harsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+[![](https://visitcount.itsvg.in/api?id=akshaykumar19002&icon=0&color=0)](https://visitcount.itsvg.in)
