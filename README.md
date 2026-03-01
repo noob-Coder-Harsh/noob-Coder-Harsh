@@ -1,21 +1,68 @@
 <!-- ⚡ Harsh’s GitHub Profile README -->
 <h1 align="center">👋 Hey, I'm Harsh</h1>
-<h3 align="center">Flutter & Full-Stack Developer | Turning Ideas into Simple, Fast, and Real Apps</h3>
-
-<!-- <p align="center">
-  <a href="https://www.linkedin.com/in/harsh-kushwaha-2474ba196/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/Hars_coder"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" /></a>
-  <a href="https://www.instagram.com/lifts_and_code/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" /></a>
-</p> -->
+<h3 align="center">
+Software Engineer | Flutter & Full-Stack Developer <br/>
+Building simple, fast, and reliable apps for real users
+</h3>
 
 ---
 
 ### ✨ About Me  
-- 💻 Currently building with **Next.js**, **Flutter**, **Supabase**, and **Firebase**  
-- 🚀 Focused on making **easy-to-use software for real users**, not just developers  
-- 🧩 Developed and delivered production-ready applications in e-commerce, medical, and ERP/inventory management domains — designed for high performance and reliability
-- ⚙️ Built end-to-end systems like Gym Management SaaS and ShopX full-stack eCommerce platform
+- 💻 Working with <b>Flutter</b>, <b>Next.js</b>, <b>Supabase</b>, and <b>Firebase</b>  
+- 🚀 Focused on building <b>production-ready software</b> for real businesses and users  
+- 🧩 Experience across <b>e-commerce</b>, <b>healthcare</b>, and <b>SaaS / ERP systems</b>  
+- ⚙️ Built <b>end-to-end systems</b> with mobile apps + web dashboards + role-based access  
 - ☕ Coffee + Code = Calm Chaos  
+
+---
+
+### 🛠 What I Build
+- 📱 Cross-platform mobile apps (Android & iOS) using Flutter  
+- 🌐 Web apps and admin panels using Next.js  
+- 🔐 Auth, roles, and permissions (Admin / Staff / User)  
+- 💳 Payments with Razorpay  
+- 📩 WhatsApp notifications and real-time updates  
+- 📊 Dashboards, analytics, and operational tools  
+
+---
+
+### 🚀 Live Products & Projects
+
+#### 🛒 Jymo Mart – Quick Commerce Platform  
+<b>Flutter · Supabase · Next.js</b>  
+- Multi-user system with customer app, store/admin panels (web + mobile)  
+- Product catalog, cart, checkout, order lifecycle  
+- Razorpay payments and real-time business workflows  
+
+🔗 App: https://play.google.com/store/apps/details?id=com.im7digital.jymomart.jymomart  
+🔗 Web: https://jymomart.com  
+
+---
+
+#### 🏋️ GymSahayta – SaaS Gym Management System  
+<b>Flutter · Firebase · Next.js</b>  
+- SaaS platform for gyms with owner, staff, and member roles  
+- Memberships, attendance, payments, expiry alerts  
+- Razorpay payments + WhatsApp notifications  
+
+🔗 App: https://play.google.com/store/apps/details?id=com.im7digital.gym.gms  
+🔗 Web: https://gymsahayta.im7.in/  
+
+---
+
+#### 💊 MyHealth – Medicine Reminder & Personal Health Assistant  
+<b>Flutter · Firebase</b>  
+- Medicine reminders and personal health tracking  
+- Built from scratch and deployed on both Android & iOS  
+
+🔗 Android: https://play.google.com/store/apps/details?id=com.aarovent.myHealth  
+🔗 iOS: https://apps.apple.com/us/app/myhealth-medicine-reminder/id6748971669  
+
+---
+
+### 📫 Let’s Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/harsh-kushwaha-2474ba196/  
+- 📧 Email: hkthakur5683@gmail.com  
 
 ---
 
